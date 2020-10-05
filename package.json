@@ -1,7 +1,7 @@
 {
   "name": "project-libra",
   "version": "1.0.0",
-  "description": "",
+  "description": "App online and working here:",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
