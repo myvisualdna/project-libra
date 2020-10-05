@@ -2,7 +2,7 @@
 
 App online and working here:
 
-<link>https://leo-chat-app-67abd.web.app/</link>
+<link>https://project-libra.vercel.app/</link>
 
 ### Techonologies used in this project:
 
