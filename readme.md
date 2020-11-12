@@ -1,4 +1,10 @@
-## Twitter Web Clone
+## Twitter Web Clone [Side-Project]
+
+The challenge:
+
+- Frontend: Rebuild Twitter frontend UI  using just CSS & SASS skills (no visual kit libraries here).
+- Backend: Build backend integration with Firestore services (database and authentication services provided by Firebas).
+
 
 App online and working here:
 
